@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LALA's FURNITURE ROOM</title>
+    <link rel="stylesheet" href="style2.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    
+</head>
+<body>
+   <div class="bg-banner">
+       <div class="nav-bar">
+           <ul>
+               <li><a href="#home">Home</a></li>
+               <li><a href="#prices">Prices</a></li>
+               <li><a href="#package-gallery">Package Gallery</a></li>
+               <li><a href="#another-contact-text">Contact</a></li>
+           </ul>
+       </div>
+       <div class="content">
+           <h1>LALA's FURNITURE ROOM</h1>
+           <p>Live your sweetest dreams</p>
+           <div>
+               <button type="button"><span></span><a href="#contact-div" id="sign-btn">SIGN - UP</a> </button>
+               <!-- <button type="button"><span></span>GET MORE INFO</button> -->
+           </div>
+       </div>
+   </div>
+
+   <div class="container">
+   <div id="home">
+      <h2>HOME</h2>
+   </div>
+  <p id="home-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel varius leo. Vivamus placerat semper quam. Donec viverra est ut ornare aliquam. Suspendisse potenti. Fusce tristique leo vitae nisl posuere, nec finibus urna porttitor. Etiam vitae erat sapien. Mauris elementum vestibulum suscipit. Ut a dui eu dui lobortis mollis at eget dui.Maecenas feugiat sem nulla, vel euismod neque vestibulum sed. Maecenas tempus hendrerit sem tempus efficitur. Maecenas sodales auctor ante id sodales. Donec dignissim tellus mi, convallis aliquam justo feugiat in. Vivamus vitae nunc at leo gravida auctor. Etiam pulvinar auctor elit, ut eleifend orci molestie eu. Proin quis lacus a erat euismod aliquam nec id tortor. Nulla facilisi. Sed vitae scelerisque massa. Phasellus tincidunt ultricies ipsum imperdiet semper. Fusce vel turpis elementum, porta magna a, blandit velit. 
+    Maecenas gravida nisi consequat eros sollicitudin, vel consequat lacus pretium.Vivamus metus metus, sollicitudin dapibus varius ut, varius vitae felis. Vestibulum nisl ligula, placerat a sodales non, porttitor eu lacus. Aliquam nec dui ac nulla lacinia semper. Maecenas tristique sapien tempor, ullamcorper erat a, elementum leo. Ut sed elit vel erat pharetra maximus. Nulla lacinia leo in turpis malesuada efficitur. Nulla ultricies laoreet risus, non pharetra purus convallis et. Donec vel hendrerit justo, non ultricies ligula. Donec lorem metus, aliquet quis suscipit ac, eleifend sit amet augue. Aenean faucibus, purus non varius tempor, justo ligula rutrum ante, sed laoreet sem felis id lorem. Nulla facilisi.</p>
+
+<div id="prices">
+    <h2>PRICES</h2>
+    <table class="table">
+        <caption style="font-weight:bold;">LIVING ROOM SET</caption>
+        <thead>
+            <tr>
+                <th scope="col">AVAILABLE PACKAGES</th>
+                <th scope="col">PRICE</th>
+              </tr>
+            </thead>
+            <tbody>
+                <tr class="table-success">
+                  <th scope="row">GOLDEN PACKAGE INTERIORS</th>
+                  <td>₦3,500,000.00</td>
+                </tr>
+                <tr>
+                    <th scope="row">SILVER PACKAGE INTERIORS</th>
+                    <td>₦1,700,000.00</td>
+                </tr>
+                <tr class="table-success">
+                    <th scope="row">BRONZE PACKAGE INTERIORS</th>
+                    <td>₦1,000,000.00</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">MEDIUM PACKAGE INTERIORS</th>
+                    <td>₦800,000.00</td>
+                </tr>
+                </tbody>
+                </table>
+<div>
+                <table class="table">
+                    <caption style="font-weight:bold;">KITCHEN SET</caption>
+                    <thead>
+                        <tr>
+                            <th scope="col">AVAILABLE PACKAGES</th>
+                            <th scope="col">PRICE</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="table-success">
+                              <th scope="row">GOLDEN PACKAGE INTERIORS</th>
+                              <td>₦2,500,000.00</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">SILVER PACKAGE INTERIORS</th>
+                                <td>₦1,800,000.00</td>
+                            </tr>
+                            <tr class="table-success">
+                                <th scope="row">BRONZE PACKAGE INTERIORS</th>
+                                <td>₦900,000.00</td>
+                              </tr>
+                              <tr>
+                                <th scope="row">MEDIUM PACKAGE INTERIORS</th>
+                                <td>₦700,000.00</td>
+                            </tr>
+                            </tbody>
+                            </table>
+                        </div>
+
+<div>
+                            <table class="table">
+                                <caption style="font-weight:bold;">BEDROOM AND BATHROOM SET</caption>
+                                <thead>
+                                    <tr>
+                                        <th scope="col">AVAILABLE PACKAGES</th>
+                                        <th scope="col">PRICE</th>
+                                      </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr class="table-success">
+                                          <th scope="row">GOLDEN PACKAGE INTERIORS</th>
+                                          <td>₦4,100,000.00</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">SILVER PACKAGE INTERIORS</th>
+                                            <td>₦2,400,000.00</td>
+                                        </tr>
+                                        <tr class="table-success">
+                                            <th scope="row">BRONZE PACKAGE INTERIORS</th>
+                                            <td>₦1,700,000.00</td>
+                                          </tr>
+                                          <tr>
+                                            <th scope="row">MEDIUM PACKAGE INTERIORS</th>
+                                            <td>₦900,000.00</td>
+                                        </tr>
+                                        </tbody>
+                            </table>
+                        </div>
+
+                        <div id="package-gallery">
+                            <h2>PACKAGE - GALLERY</h2>
+                        </div>
+                        <p style="color: black;"><strong>Shop </strong>with us at LALA's FURNITURE ROOM, enjoy the taste of perfection in our luxurious living room, kitchen, bedroom and bathroom<br> Here are a few samples:</p>
+                        <h5 style="font-weight:bold; color: black;">LIVING ROOM SET</h5>
+                        
+
+                        <div class="card-deck">
+                            <div class="card">
+                              <img src="../images/golden-living-room.jpg" class="card-img-top" alt="golden-living-room-package">
+                              <div class="card-body">
+                                <h5 class="card-title">GOLDEN PACKAGE</h5>
+                                <p class="card-text" style="color:black">Enjoy and Live your life to the fullest with our luxurious living room interior design, furniture set is also included in the package.</p>
+                              </div>
+
+                            </div>
+                            <div class="card">
+                              <img src="../images/silver-livng-room.jpg" class="card-img-top" alt="silver-living-room-package">
+                              <div class="card-body">
+                                <h5 class="card-title">SILVER PACKAGE</h5>
+                                <p class="card-text" style="color:black">Netflix and Chill with a taste of perfection, with our grand silver package living room interior design, furniture set is also included in this package.</p>
+                              </div>
+                            </div>
+
+                            <div class="card">
+                              <img src="../images/bronze-living-room.jpg" class="card-img-top" alt="bronze-living-room-package">
+                              <div class="card-body">
+                                <h5 class="card-title">BRONZE PACKAGE</h5>
+                                <p class="card-text" style="color:black">Feel the moment here with family and friends with our beautiful bronze package living room interior design, furniture set also included.</p>
+                              </div>
+                            </div>
+
+                            <div class="card">
+                                <img src="../images/medium-living-room.jpg" class="card-img-top" alt="medium-living-room-package">
+                                <div class="card-body">
+                                  <h5 class="card-title">MEDIUM PACKAGE</h5>
+                                  <p class="card-text" style="color:black">We've got you covered on all levels, enjoy the medium package living room design. However, furniture set is NOT included in this package.</p>
+                                </div>
+                              </div>
+                          </div>
+
+                          <div class="snd-package">
+                          <h5 style="font-weight:bold; color: black;">KITCHEN SET</h5>
+                        </div>
+
+                        <div class="card-deck">
+                            <div class="card">
+                              <img src="../images/golden-kitchen.jpg" class="card-img-top" alt="golden-kitchen-package">
+                              <div class="card-body">
+                                <h5 class="card-title">GOLDEN PACKAGE</h5>
+                                <p class="card-text" style="color:black">Enjoy and Live your life to the fullest with our luxurious kitchen interior design, furniture set is also included in the package.</p>
+                              </div>
+
+                            </div>
+                            <div class="card">
+                              <img src="../images/silver-kitchen.jpg" class="card-img-top" alt="silver-kitchen-package">
+                              <div class="card-body">
+                                <h5 class="card-title">SILVER PACKAGE</h5>
+                                <p class="card-text" style="color:black">Enjoy a really good home cooked meal, with our grand silver package kitchen interior design, furniture set is also included in this package.</p>
+                              </div>
+                            </div>
+
+                            <div class="card">
+                              <img src="../images/bronze-kitchen.jpg" class="card-img-top" alt="bronze-kitchen-package">
+                              <div class="card-body">
+                                <h5 class="card-title">BRONZE PACKAGE</h5>
+                                <p class="card-text" style="color:black">Feel the moment here with family and friends with our beautiful bronze package kitchen interior design, furniture set also included.</p>
+                              </div>
+                            </div>
+
+                            <div class="card">
+                                <img src="../images/medium-kitchen.jpg" class="card-img-top" alt="medium-kitchen-package">
+                                <div class="card-body">
+                                  <h5 class="card-title">MEDIUM PACKAGE</h5>
+                                  <p class="card-text" style="color:black">We've got you covered on all levels, enjoy the medium package kitchen interior design. However, furniture set is NOT included in this package.</p>
+                                </div>
+                              </div>
+                          </div>
+
+
+                          <div class="snd-package">
+                            <h5 style="font-weight:bold; color: black;">BEDROOM AND BATHROOM SET</h5>
+                          </div>
+
+                          <div class="card-deck">
+                            <div class="card">
+                              <img src="../images/golden-bed-bath.png" class="card-img-top" alt="golden-bedroom-bathroom-package">
+                              <div class="card-body">
+                                <h5 class="card-title">GOLDEN PACKAGE</h5>
+                                <p class="card-text" style="color:black">Enjoy and Live your life to the fullest with our luxurious bedroom and bathroom interior design, furniture set is also included in the package.</p>
+                              </div>
+
+                            </div>
+                            <div class="card">
+                              <img src="../images/silver-bed-bath.jpg" class="card-img-top" alt="silver-bedroom-bathroom-package">
+                              <div class="card-body">
+                                <h5 class="card-title">SILVER PACKAGE</h5>
+                                <p class="card-text" style="color:black">Netflix and Chill with a taste of perfection, with our grand silver package bedroom and bathroom interior design, furniture set is also included in this package.</p>
+                              </div>
+                            </div>
+
+                            <div class="card">
+                              <img src="../images/bronze-bed-bath.png" class="card-img-top" alt="bronze-bedroom-bathroom-package">
+                              <div class="card-body">
+                                <h5 class="card-title">BRONZE PACKAGE</h5>
+                                <p class="card-text" style="color:black">Feel the moment here with family and friends with our beautiful bronze package bedroom and bathroom interior design, furniture set also included.</p>
+                              </div>
+                            </div>
+
+                            <div class="card">
+                                <img src="../images/medium-bed-bath.jpg" class="card-img-top" alt="medium-bedroom-bathroom-package">
+                                <div class="card-body">
+                                  <h5 class="card-title">MEDIUM PACKAGE</h5>
+                                  <p class="card-text" style="color:black">We've got you covered on all levels, enjoy the medium package bedroom and bathroom design. However, furniture set is NOT included in this package.</p>
+                                </div>
+                              </div>
+                          </div>
+
+
+                          <div id="contact-div">
+                            <h2 id="contact">SIGN-UP</h2>
+                      <p style="font-size:18px">Keep in touch with us to know when our latest furniture drops, we will also love to hear your feedback</p>
+                            <form style="font-size: 18px;">
+                                <div class="form-group">
+                                  <label for="formGroupExampleInput">FULL NAME</label>
+                                  <input type="text" class="form-control" id="full-name" placeholder="e.g: Tutu Lala">
+                                </div>
+                                <div class="form-group">
+                                  <label for="formGroupExampleInput2">E-MAIL ADDRESS</label>
+                                  <input type="text" class="form-control" id="email" placeholder="someone@something.com">
+                                </div>
+                                <button type="submit" class="btn btn-success"id="submit-btn">Submit</button>
+                              </form>
+
+                              <div id="another-contact-text">
+                                <h5>Hey there!</h5>
+                                <p>You can also contact us, give us a feedback, create your own version of comfortability <br>and luxury, by sending an email to:</p>
+                                <p><strong>thelalafurnitureroom@gmail.com</strong></p>
+                            </div>
+                        </div>
+
+                        
+</div>
+   
+<footer id="my-footer">
+    <p>I am Nwokocha Uchechi Flora, an aspiring web developer and data analyst.This is a HTML, CSS only landing page, made by me. Actually, I am a newbie in front end development, but thanks to bootstrap, my work was little less.
+        <br>The pictures were gotten from the internet, random pictures anyway. Thanks for viewing.
+    </p>
+</footer>
+
+
+   
+   <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+
+</body>
+</html>
